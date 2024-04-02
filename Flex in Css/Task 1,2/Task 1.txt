@@ -1,0 +1,8 @@
+Flexbox is a one dimentional layout system to align items horizontally or vertically in a container. Flex works only in one direction or we can say in single row or column.
+flexbox is used to create navigation bars and sections on the web.
+
+CSS Grid is two dimentional layout system in which we can work on the both direction horizontally and vertically. 
+Css Grid is used to create image galleries,complex design websites.
+
+Choosing gird or flexbox is completely depended on what we want to built if want to build something where i just have to work on the same direction like building nav bars and particular sections in websites
+and if i have to build something  complex like image gallery, something where i have to create multiple cards like gallery.

@@ -1,0 +1,12 @@
+Question : Explain the role of the following key properties in the Flexbox layout model
+justify-content, align-items, gap, flex-direction, flex-wrap.
+
+Answer: justify-content: This property helps the browser to control the distribution of the spaces between the items and allow us to control the alignment of the items on the main axis including some values like- flex-start,flex-end, center, space-between, space-around, space-evenly.
+
+align-items: This property help us to control the alignment of the items on the cross axis by using the same values.
+
+gap: This property is used to give space between the items.
+
+flex-direction: This property is used to change the main axis and also throught this we can control the placement of the flex items.
+
+flex-wrap: In flex, flex items are forced to be rendered in one line but by using flex-wrap the flex items get wraped in the multiple lines. 
